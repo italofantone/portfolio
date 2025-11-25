@@ -22,22 +22,22 @@ Dispongo de muchas piezas que reutilizo en mis proyectos para acelerar el desarr
 
 1. TMDB App: Proyecto React que consume la API de The Movie Database (TMDB) para mostrar un listado de películas por generos de manera horizontal. El objetivo es practicar el consumo de APIs, organización de componentes, estilos con Tailwind CSS y despliegue en Vercel.
 
-🔗 **Demo** https://react-tmdb-silk.vercel.app/
-🐱 **Código** https://github.com/hagaseelcodigo/react-tmdb
+- 🔗 **Demo** https://react-tmdb-silk.vercel.app/
+- 🐱 **Código** https://github.com/hagaseelcodigo/react-tmdb
 
-**Tecnologías** React, Vite, Tailwind CSS, Vercel, TMDB API.
+**Tecnologías:** React, Vite, Tailwind CSS, Vercel, TMDB API.
 
 ## ✉️ Contacto
+
+Si quieres colaborar, contratar una consultoría o sólo conversar sobre arquitectura, programación o educación:
 
 - **Email:** hola@italofantone.com
 - **LinkedIn:** https://www.linkedin.com/in/italofantone/
 - **Blog Técnico:** https://italofantone.com/blog
 
-¡Gracias por visitar mi portafolio! Estoy siempre abierto a nuevas oportunidades y colaboraciones. No dudes en contactarme si tienes alguna pregunta o proyecto en mente.
-
 ---
 
 ## 📝 Próximas mejoras
 
-[ ] Agregar GIFs de cada proyecto
-[ ] Agregar proyectos en Laravel & PHP, Next.js y Flutter
+- [ ] Agregar GIFs de cada proyecto
+- [ ] Agregar proyectos en Laravel & PHP, Next.js y Flutter
